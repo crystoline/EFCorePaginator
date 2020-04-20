@@ -8,6 +8,8 @@
         <Description>Paginator library for .net entity framework</Description>
         <PackageTags>ef .net core </PackageTags>
         <Company>NetronIT</Company>
+        <PackageProjectUrl>https://github.com/crystoline/netcorepaginator</PackageProjectUrl>
+        <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
     </PropertyGroup>
 
     <ItemGroup>
