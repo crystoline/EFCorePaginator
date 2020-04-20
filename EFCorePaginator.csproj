@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <Title>EFCorePaginator</Title>
+        <Authors>crystoline</Authors>
+        <Description>Paginator library for .net entity framework</Description>
+        <PackageTags>ef .net core </PackageTags>
+        <Company>NetronIT</Company>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Microsoft.AspNetCore.Mvc" Version="2.2.0" />
+    </ItemGroup>
+
+</Project>
